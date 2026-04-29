@@ -243,7 +243,7 @@ Once this bean is present, the in-memory fallback is disabled and `SeedKeys` wil
 
 ### Prerequisites
 
-- Java 21+
+- Java 25+
 
 ### Run the application
 
