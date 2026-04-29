@@ -16,7 +16,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 import java.io.IOException;
 
 @Component
-public final class ApiKeyAuthFilter extends OncePerRequestFilter {
+final class ApiKeyAuthFilter extends OncePerRequestFilter {
     private final AuthenticationManager authenticationManager;
 
 
